@@ -4,7 +4,7 @@
     "react-hot-loader": "^1.0.7",
     "react-router": "^0.13.3",
     "webpack": "^1.4.13",
-    "react": "^0.13.0",
+    "react": "^15.6.2",
     "jsx-loader": "^0.13.0"
   }
 }
